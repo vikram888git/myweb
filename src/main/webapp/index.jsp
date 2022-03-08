@@ -1,6 +1,5 @@
 <html>
   <body>
-    <h1>hi project1 is completed<h1>
-      <h2>new editor<h2>
+    <h1>project trails but not calrity<h1>
        </body>
        </html>
